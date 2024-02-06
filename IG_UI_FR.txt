@@ -1,0 +1,10 @@
+IGUI_FR = {
+	-- All the UI text used in game
+	-- InventoryPane
+
+    IGUI_ContainerTitle_Trash = "Ordure",
+    IGUI_ContainerTitle_TrashPaper = "Papiers éparpillés",
+
+
+
+}
